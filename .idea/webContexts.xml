@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/admin/admin.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/admin" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/admin/admin_admin.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/admin" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/admin/admin_feedback.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/admin" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/book/admin_book.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/book" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/booktype/admin_booktype.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/booktype" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/bro/admin_bdtimes.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/bro" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/bro/admin_brtimes.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/bro" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/bro/brtimes.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/bro" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/myproblem.jsp" value="file://$PROJECT_DIR$/web/WEB-INF" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/register.jsp" value="file://$PROJECT_DIR$/web/WEB-INF" />
+      </map>
+    </option>
+  </component>
+</project>
